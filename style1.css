@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(196, 218, 169);
+}
+div{font-family:Arial, Helvetica, sans-serif;
+    padding:120px;
+    height: 200px;
+    width: 600px;
+    display: flex;
+    justify-content:center; 
+    align-items: center; 
+    flex-direction: column;
+    
+}
